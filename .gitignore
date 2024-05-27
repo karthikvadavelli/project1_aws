@@ -11,6 +11,12 @@
 npm-debug.log
 yarn-error.log
 /.angular
+/angular.json
+/compose.yaml
+/deployment.yaml
+/job.yaml
+/package-lock.json
+/package.json 
 
 
 # IDEs and editors
